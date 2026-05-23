@@ -1,6 +1,6 @@
 {
     "name": "JSMR Access",
-    "short_name": "JSMR",
+    "short_name": "JSMR Access",
     "description": "Sistema de control de acceso QR para el Fraccionamiento José María Sánchez Ramírez.",
     "start_url": "/",
     "display": "standalone",
