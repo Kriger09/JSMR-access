@@ -110,7 +110,7 @@ export default function ResidentePage() {
     context.fillRect(0, 0, canvas.width, canvas.height);
 
     if (logo.complete && logo.naturalWidth > 0) {
-      context.drawImage(logo, canvas.width / 2 - 45, 35, 90, 90);
+      context.drawImage(logo, canvas.width / 2 - 70, 35, 150, 80);
     }
 
     context.fillStyle = "#111111";
